@@ -17,3 +17,4 @@ else
 fi
 
 echo 4411 | sudo -S chmod -R 777 logs
+
